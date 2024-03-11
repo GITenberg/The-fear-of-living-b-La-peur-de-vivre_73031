@@ -1,0 +1,42 @@
+_repo: The-fear-of-living-b-La-peur-de-vivre_73031
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Davis, Ruth Helen
+    gutenberg_agent_id: '44198'
+    url: http://www.gutenberg.org/2009/agents/44198
+creator:
+  author:
+    agent_name: Bordeaux, Henry
+    aliases:
+    - Bordeaux, Henri
+    - Bordeaux, Enrique
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '4478'
+    url: http://www.gutenberg.org/2009/agents/4478
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Henry_Bordeaux
+    - https://en.wikipedia.org/wiki/Henry_Bordeaux
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73031'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/008672224
+pgterms:marc905: 20231029040434bordeaux
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aNew York :$bE.P. Dutton & Company, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: 'The fear of living : $b (La peur de vivre)'
+url: http://www.gutenberg.org/ebooks/73031
